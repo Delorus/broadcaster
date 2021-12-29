@@ -1,4 +1,4 @@
-module broadcaster
+module github.com/Delorus/broadcaster
 
 go 1.18
 
